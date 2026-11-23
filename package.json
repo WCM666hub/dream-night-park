@@ -1,0 +1,17 @@
+{
+  "name": "dream-night-park",
+  "version": "1.0.0",
+  "description": "梦幻夜游乐园：Three.js 万圣夜与童话夜双主题交互原型",
+  "private": true,
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "esbuild": "^0.24.2",
+    "three": "^0.170.0"
+  }
+}
